@@ -1,0 +1,40 @@
+{
+  "user": {
+    "uid": "MS7mTWu2djVon7Qt30HTRyvS8i22",
+    "email": "j@h.com",
+    "emailVerified": false,
+    "displayName": "Eaby Thomas C",
+    "isAnonymous": false,
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "j@h.com",
+        "displayName": "Eaby Thomas C",
+        "email": "j@h.com",
+        "phoneNumber": null,
+        "photoURL": null
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AMf-vByRpaJ9LrqJriYvbyrNlm8XkFQRBZb4iSA95x2AyT4mqTfOZBDss4aUOQbXmZFFkGHUZJr556Wdtf-G5VnhtVOErGnRqoIwR8pf-EuwbXolq8NC2KX9qXYnPCmyZup44zdZkFkANQFs4YaqoBQE5PJXCbQ_LbQA01OOQ7J0IfAkQtG6GSF5iYApi-_xaHUdKPLUk6KnBEiqs4FoJy1xxayzu82I3aUIfq_VkZTim353pCz1TMg",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjAzZDA3YmJjM2Q3NWM2OTQyNzUxMGY2MTc0ZWIyZjE2NTQ3ZDRhN2QiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRWFieSBUaG9tYXMgQyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9teS1lLWNvbW1lcmNlLTkzNTI4IiwiYXVkIjoibXktZS1jb21tZXJjZS05MzUyOCIsImF1dGhfdGltZSI6MTY5ODEzMDk5NCwidXNlcl9pZCI6Ik36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xIiLCJzdWIiOiJNUzdtVFd1MmRqVm9uN1F0MzBIVFJ5dlM4aTIyIiwiaWF0IjoxNjk4MTMwOTk0LCJleHAiOjE2OTgxMzQ1OTQsImVtYWlsIjoiakBoLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJqQGguY29tIl36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xIjoicGFzc3dvcmQifX0.nJ_36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xFzWa9jC4duU36EkRHLyviZMtSjodB4gByQJwyYxPmBE1x8qrmLHJs9x_ccmekV36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xZByDMvfyXHw5jrRM2ct3_zh2WAfOmkMVqcdQqXVuVa-hca8_36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xI1AzalzaK9rLGas_KnRIoAJO3l5fsPYKW_9ULKmbZO01ilOraUk12ClZigV8CYB13yjBE_QN2p8SfMsEu8YeCcoL-eLDB2L9HdDxZnw",
+      "expirationTime": 1698134593087
+    },
+    "createdAt": "1698130973018",
+    "lastLoginAt": "1698130973018",
+    "apiKey": "AIzaSyCEYzdH0gIY1FgTMwcWtFU62reX4jOtfPo",
+    "appName": "[DEFAULT]"
+  },
+  "providerId": null,
+  "_tokenResponse": {
+    "kind": "identitytoolkit#VerifyPasswordResponse",
+    "localId": "MS7mTWu2djVon7Qt30HTRyvS8i22",
+    "email": "j@h.com",
+    "displayName": "Eaby Thomas C",
+    "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjAzZDA3YmJjM2Q3NWM2OTQyNzUxMGY2MTc0ZWIyZjE2NTQ3ZDRhN2QiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRWFieSBUaG9tYXMgQyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9teS1lLWNvbW1lcmNlLTkzNTI4IiwiYXVkIjoibXktZS1jb21tZXJjZS05MzUyOCIsImF1dGhfdGltZSI6MTY5ODEzMDk5NCwidXNlcl9pZCI6Ik36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xIiLCJzdWIiOiJNUzdtVFd1MmRqVm9uN1F0MzBIVFJ5dlM4aTIyIiwiaWF0IjoxNjk4MTMwOTk0LCJleHAiOjE2OTgxMzQ1OTQsImVtYWlsIjoiakBoLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJqQGguY29tIl36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xIjoicGFzc3dvcmQifX0.nJ_36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xFzWa9jC4duU36EkRHLyviZMtSjodB4gByQJwyYxPmBE1x8qrmLHJs9x_ccmekV36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xZByDMvfyXHw5jrRM2ct3_zh2WAfOmkMVqcdQqXVuVa-hca8_36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xI1AzalzaK9rLGas_KnRIoAJO3l5fsPYKW_9ULKmbZO01ilOraUk12ClZigV8CYB13yjBE_QN2p8SfMsEu8YeCcoL-eLDB2L9HdDxZnw",
+    "registered": true,
+    "refreshToken": "AMf-vByRpaJ9LrqJriYvbyrNlm8XkFQRBZb4iSA95x2AyT4mqTfOZBDss4aUOQbXmZFFkGHUZJr556Wdtf-G5VnhtVOErGnRqoIwR8pf-EuwbXolq8NC2KX9qXYnPCmyZup44zdZkFkANQFs4YaqoBQE5PJXCbQ_LbQA01OOQ7J0IfAkQtG6GSF5iYApi-_xaHUdKPLUk6KnBEiqs4FoJy1xxayzu82I3aUIfq_VkZTim353pCz1TMg",
+    "expiresIn": "3600"
+  },
+  "operationType": "signIn"
+}
